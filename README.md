@@ -1,2 +1,2 @@
 # gitprove
-just exercising 
+just 
